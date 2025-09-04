@@ -237,7 +237,7 @@ class _Login_PageState extends State<Login_Page> {
                               style: TextStyle(
                                 fontSize: 20,
                                 fontWeight: FontWeight.bold,
-                                color: Colors.white, // ตัว
+                                color: Colors.white, // ตัวsoy
                               ),
                             ),
                           ),
